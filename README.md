@@ -1,10 +1,10 @@
-# ❒✨ FoodDeliveryApp ✨
+# ✯✨ FoodDeliveryApp ✨✯
 
 A simple and responsive **Food Delivery Web App** built with **React + Vite**. The app displays restaurant cards, allows filtering by category or rating, and uses a clean UI to showcase how a modern food delivery frontend works.
 
 ---
 
-## ✭✨ Tech Stack
+## ✦  Tech Stack
 
 -  React (with Hooks)
 -  Vite (super fast dev environment)
@@ -14,7 +14,7 @@ A simple and responsive **Food Delivery Web App** built with **React + Vite**. T
 
 ---
 
-## ✭✨ Features
+## ✦  Features
 
 -  Restaurant Cards with name, cuisine, rating, and delivery time
 -  Filters by category (e.g., Fast Food, Indian, Chinese, etc.)
